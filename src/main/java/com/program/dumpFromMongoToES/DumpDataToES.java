@@ -15,7 +15,6 @@ import com.mongodb.Mongo;
 
 import java.io.IOException;
 import java.net.UnknownHostException;
-
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
